@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1682959454 source:d:\new folder (3)\pemula\c++ latihan\lingkedlist\lingkedlist\main.cpp
+	<iostream>
+	"src/LinkedList.h"
+
+1682955365 d:\new folder (3)\pemula\c++ latihan\lingkedlist\lingkedlist\include\linkedlist.h
+
+1682959473 source:d:\new folder (3)\pemula\c++ latihan\lingkedlist\lingkedlist\src\linkedlist.cpp
+	<iostream>
+	"LinkedList.h"
+
+1682955365 d:\new folder (3)\pemula\c++ latihan\lingkedlist\lingkedlist\src\linkedlist.h
+
